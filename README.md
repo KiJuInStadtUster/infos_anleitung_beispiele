@@ -20,5 +20,3 @@ Die Fachstelle Kindheit, Jugend und Inklusion der Stadt Uster ist bestrebt, mög
 
 ## Ablage
 Datensätze veröffentlichen wir normalerweise auf Github, alle weiteren Publikationen sind direkt auf unserer Plattform unter [data.kjf-uster.ch](https://data.kjf-uster.ch) verfügbar.
-
-## Lizenz(en)
